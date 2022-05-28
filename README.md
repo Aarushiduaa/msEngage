@@ -1,4 +1,4 @@
-# ProctorLess
+# ProctorLy
 *Changing the way teachers take examinations* 
 
 
